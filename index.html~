@@ -13,12 +13,40 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+	<!-- ****** faviconit.com favicons ****** -->
+	<!-- Basic favicons -->
+	<link rel="shortcut icon" sizes="16x16 32x32 48x48 64x64" href="favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+	<!-- For Opera Speed Dial -->
+	<link rel="icon" type="image/png" sizes="195x195" href="favicon-195.png">
+	<!-- For iPad with high-resolution Retina Display running iOS ≥ 7 -->
+	<link rel="apple-touch-icon" sizes="152x152" href="favicon-152.png">
+	<!-- For iPad with high-resolution Retina Display running iOS ≤ 6 -->
+	<link rel="apple-touch-icon" sizes="144x144" href="favicon-144.png">
+	<!-- For iPhone with high-resolution Retina Display running iOS ≥ 7 -->
+	<link rel="apple-touch-icon" sizes="120x120" href="favicon-120.png">
+	<!-- For iPhone with high-resolution Retina Display running iOS ≤ 6 -->
+	<link rel="apple-touch-icon" sizes="114x114" href="favicon-114.png">
+	<!-- For Google TV devices -->
+	<link rel="icon" type="image/png" sizes="96x96" href="favicon-96.png">
+	<!-- For iPad Mini -->
+	<link rel="apple-touch-icon" sizes="76x76" href="favicon-76.png">
+	<!-- For first- and second-generation iPad -->
+	<link rel="apple-touch-icon" sizes="72x72" href="favicon-72.png">
+	<!-- For non-Retina iPhone, iPod Touch and Android 2.1+ devices -->
+	<link rel="apple-touch-icon" href="favicon-57.png">
+	<!-- Windows 8 Tiles -->
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="favicon-144.png">
+	<!-- ****** faviconit.com favicons ****** -->
+
   </head>
   <body>
 
       <header>
            <a href="index.html" class="button"><h1><em>Do</em> We Own It?</h1></a>
-        <p>After 80 years of gradual change, is the B.S.C. still a cooperative democracy?</p>
+        <p>After 80 years of gradual change, is the B.S.C. still truly a cooperative democracy?</p>
       </header>
 
       <div id="banner">
@@ -28,7 +56,7 @@
        <div class="downloads">
           <span>Roadmap:</span>
           <ul>
-            <li><a href="waystoanswer.html" class="button">Well, Do We?</a></li>
+            <li><a href="waystoanswer.html" class="button">Who 'Owns It'</a></li>
             <li><a href="sowhat.html" class="button">Why Does It Matter</a></li>
             <li><a href="whatnow.html" class="button">What Can Be Done</a></li>
           </ul>
@@ -55,8 +83,8 @@
 
 
       <footer>
-        <p>Project maintained by <a href="https://github.com/apostmodernist">apostmodernist</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+       <p><a href="https://github.com/apostmodernist/doweownit.com">Hosted on GitHub Pages</a> (open source = cooperative)</p>
+       <p><small>Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
